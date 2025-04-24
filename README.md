@@ -1,2 +1,2 @@
-# RepoPyTrain
+# RepoPyTasks
 Python training
